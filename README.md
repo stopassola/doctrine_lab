@@ -6,12 +6,15 @@
 4. `php composer-setup.php`
 5. `php composer.phar require doctrine/orm`
 6. `git clone https://github.com/stopassola/doctrine_lab.git .`
-7. `importe o BD que está em estrutura.sql`
-8. `Abra o navegador e execute http://localhost/doctrine_lab`
+7. importe o BD que está em `estrutura.sql` 
+8. Abra o navegador e acesse <http://localhost/doctrine_lab>
 
-Material preparado por Ari Stopassola Junior para uma nano-apresentação no MeetUp do PHPRS Subseção Canela/Gramado, ocorrido no dia 26/11/2016:
+Material preparado por **Ari Stopassola Junior** para uma mini-apresentação no MeetUp do PHPRS Subseção Canela/Gramado, ocorrido no dia 26/11/2016 às 14h no Hotel Klein Ville (em Canela):
 
 <https://www.facebook.com/events/363441330713799/>
+
 <http://www.meetup.com/pt-BR/PHP-RS/events/234978772/>
+
 <http://www.phprs.com.br>
+
 <https://phprs.slack.com>
