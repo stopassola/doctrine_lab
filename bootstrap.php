@@ -10,9 +10,9 @@ $config = Setup::createAnnotationMetadataConfiguration(array("./src"));
 $conexao = array(
     'driver'   => 'pdo_mysql',
     'host'     => 'localhost',
-    'dbname'   => 'doctrine_lab2',
-    'user'     => 'root',
-    'password' => 'root'
+    'dbname'   => 'doctrine_lab',
+    'user'     => 'usuario_bd',
+    'password' => 'senha'
 );
 
 //Disponibiliza o EntityManager
